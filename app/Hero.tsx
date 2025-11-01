@@ -13,7 +13,7 @@ export default function Hero() {
           <a className="hero__button" href="#contacts">Call the wizard</a>
         </div>
         <div className="hero__photo">
-          <img src="/image/image 1.png" alt="Repair specialist" className="hero__main-image" style={{width: '100%', maxWidth: 572, borderRadius: 18}} />
+          <img src="/my-app/image/image 1.png" alt="Repair specialist" className="hero__main-image" style={{width: '100%', maxWidth: 572, borderRadius: 18}} />
         </div>
       </div>
     </section>

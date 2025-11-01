@@ -2,7 +2,7 @@ export default function Footer() {
   return (
     <footer className="footer">
       <div className="footer__col footer__logo">
-        <img src="/image/pc-masterworks-high-resolution-color-logo%201.png" alt="PC MasterWorks Logo" height={40} style={{borderRadius: '14px'}} />
+        <img src="/my-app/image/pc-masterworks-high-resolution-color-logo%201.png" alt="PC MasterWorks Logo" height={40} style={{borderRadius: '14px'}} />
         <div className="footer__rights">
           (c)2025 PC MasterWorks<br />PC MasterWorks LLC<br />INN 3460084647<br />OGRN 1233440006960
         </div>

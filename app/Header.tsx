@@ -5,7 +5,7 @@ export default function Header() {
     <header className="header">
       <div className="header__inner">
         <div className="header__logo">
-          <img src="/image/pc-masterworks-high-resolution-color-logo%201.png" alt="PC MasterWorks Logo" height={48} style={{borderRadius: '14px'}} />
+          <img src="/my-app/image/pc-masterworks-high-resolution-color-logo%201.png" alt="PC MasterWorks Logo" height={48} style={{borderRadius: '14px'}} />
         </div>
         <div className="header__search">
           <input placeholder="What are you looking for..."/>

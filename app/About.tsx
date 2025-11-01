@@ -4,7 +4,7 @@ export default function About() {
       <h2 className="about__title">About me</h2>
       <div className="about__container">
         <div className="about__photo">
-          <img src="/image/мужичок.png" alt="Master portrait" />
+          <img src="/my-app/image/мужичок.png" alt="Master portrait" />
         </div>
         <div className="about__desc">
           Alexey Petrov<br />

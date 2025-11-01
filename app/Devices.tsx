@@ -10,7 +10,7 @@ type Device = {
 
 const deviceData: Device[] = [
   {
-    img: '/image/laptop.png',
+    img: '/my-app/image/laptop.png',
     name: 'Laptop',
     prices: [
       { label: 'Diagnostics', price: '0₽' },
@@ -21,7 +21,7 @@ const deviceData: Device[] = [
     ],
   },
   {
-    img: '/image/TV.png',
+    img: '/my-app/image/TV.png',
     name: 'TV',
     prices: [
       { label: 'Diagnostics', price: '0₽' },
@@ -32,7 +32,7 @@ const deviceData: Device[] = [
     ],
   },
   {
-    img: '/image/PC.png',
+    img: '/my-app/image/PC.png',
     name: 'PC',
     prices: [
       { label: 'Diagnostics', price: '0₽' },
@@ -43,7 +43,7 @@ const deviceData: Device[] = [
     ],
   },
   {
-    img: '/image/Smarthone.png',
+    img: '/my-app/image/Smarthone.png',
     name: 'Smartphone',
     prices: [
       { label: 'Diagnostics', price: '0₽' },
